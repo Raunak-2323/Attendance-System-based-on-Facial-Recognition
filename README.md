@@ -39,4 +39,4 @@ A simple yet powerful Python project that uses **OpenCV** to recognize faces fro
 
 ---
 
-
+https://github.com/user-attachments/assets/f1d0f3c4-a4a8-4006-ac5e-8d3b56e1d112
